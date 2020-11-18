@@ -112,8 +112,6 @@ int Top()
     {
         return 0;
     }
-    
-
 }
 
 int IsEmpty()
@@ -126,5 +124,4 @@ int IsEmpty()
     {
         return 0;
     }
-    
 }
